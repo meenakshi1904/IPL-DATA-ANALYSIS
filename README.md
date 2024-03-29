@@ -28,6 +28,13 @@ Key Matrice:
 
    <img width="599" alt="image" src="https://github.com/meenakshi1904/IPL-DATA-ANALYSIS/assets/120337424/679e3ea8-9430-4587-8694-03f109aaa566">
 
+**Data Model:**
+
+<img width="773" alt="image" src="https://github.com/meenakshi1904/IPL-DATA-ANALYSIS/assets/120337424/d9058569-3eab-410e-86e1-2e7217a19b11">
+
+
+
+
 
 
 **DASHBOARD SNAPSHOT:**
